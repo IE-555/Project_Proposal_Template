@@ -1,7 +1,7 @@
 # IE 555 Project Proposal Template
 
 --- 
-**NOTE**:  The *[italicized]* content below is for your reference only.  Please remove these comments before submitting.
+**Note**:  The *[italicized]* content below is for your reference only.  Please remove these comments before submitting.
 ---
 
 ## Team Members:  
